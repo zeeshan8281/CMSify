@@ -31,7 +31,7 @@ Before getting started, make sure you have the following prerequisites installed
 2. Navigate to the project directory:
 
    ```bash
-   cd headless-cms
+   cd CMSify
    ```
 
 3. Install dependencies:
