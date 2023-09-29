@@ -1,4 +1,4 @@
-# CMSify
+## CMSify
 
 # Headless CMS with Node.js and MongoDB :computer:
 
