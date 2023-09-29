@@ -1,5 +1,5 @@
 # CMSify
-```markdown
+
 # Headless CMS with Node.js and MongoDB :computer:
 
 A simple headless CMS (Content Management System) built with Node.js, Express, and MongoDB. This project provides basic API endpoints for managing articles, including CRUD operations, pagination, and search functionality.
@@ -25,7 +25,7 @@ Before getting started, make sure you have the following prerequisites installed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/headless-cms.git
+   git clone https://github.com/zeeshan8281/CMSify.git
    ```
 
 2. Navigate to the project directory:
@@ -77,5 +77,3 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can copy and paste this markdown into your GitHub repository's README.md file, and customize it as needed. Don't forget to replace placeholders like `<your-username>` with your actual GitHub username and update any additional information specific to your project.
